@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://123.58.230.241:6001/vantop-sba-web/files/full.png</string>
+					<string>https://raw.githubusercontent.com/superman010/vantop-sba/master/src/main/webapp/full.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://123.58.230.241:6001/vantop-sba-web/files/icon.png</string>
+					<string>https://raw.githubusercontent.com/superman010/vantop-sba/master/src/main/webapp/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
